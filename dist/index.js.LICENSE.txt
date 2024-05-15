@@ -1,0 +1,224 @@
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+***************************************************************************** */
+
+/*! ./brick/index */
+
+/*! ./brickProceduralTexture */
+
+/*! ./brickProceduralTexture.fragment */
+
+/*! ./cloud/index */
+
+/*! ./cloudProceduralTexture */
+
+/*! ./cloudProceduralTexture.fragment */
+
+/*! ./fire/index */
+
+/*! ./fireProceduralTexture */
+
+/*! ./fireProceduralTexture.fragment */
+
+/*! ./grass/index */
+
+/*! ./grassProceduralTexture */
+
+/*! ./grassProceduralTexture.fragment */
+
+/*! ./marble/index */
+
+/*! ./marbleProceduralTexture */
+
+/*! ./marbleProceduralTexture.fragment */
+
+/*! ./normalMap/index */
+
+/*! ./normalMapProceduralTexture */
+
+/*! ./normalMapProceduralTexture.fragment */
+
+/*! ./perlinNoise/index */
+
+/*! ./perlinNoiseProceduralTexture */
+
+/*! ./perlinNoiseProceduralTexture.fragment */
+
+/*! ./road/index */
+
+/*! ./roadProceduralTexture */
+
+/*! ./roadProceduralTexture.fragment */
+
+/*! ./starfield/index */
+
+/*! ./starfieldProceduralTexture */
+
+/*! ./starfieldProceduralTexture.fragment */
+
+/*! ./wood/index */
+
+/*! ./woodProceduralTexture */
+
+/*! ./woodProceduralTexture.fragment */
+
+/*! @lts/procedural-textures/legacy/legacy */
+
+/*! babylonjs/Engines/shaderStore */
+
+/*! babylonjs/Misc/typeStore */
+
+/*! procedural-textures/index */
+
+/*! tslib */
+
+/*!**********************!*\
+  !*** ./src/index.ts ***!
+  \**********************/
+
+/*!****************************************************!*\
+  !*** ../../../../node_modules/tslib/tslib.es6.mjs ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/index.ts ***!
+  \****************************************************/
+
+/*!*********************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/fire/index.ts ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/road/index.ts ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/wood/index.ts ***!
+  \*********************************************************/
+
+/*!**********************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/brick/index.ts ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/cloud/index.ts ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/grass/index.ts ***!
+  \**********************************************************/
+
+/*!***********************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/marble/index.ts ***!
+  \***********************************************************/
+
+/*!************************************************************!*\
+  !*** ../../../lts/proceduralTextures/src/legacy/legacy.ts ***!
+  \************************************************************/
+
+/*!**************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/normalMap/index.ts ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/starfield/index.ts ***!
+  \**************************************************************/
+
+/*!****************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/perlinNoise/index.ts ***!
+  \****************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/fire/fireProceduralTexture.ts ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/road/roadProceduralTexture.ts ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/wood/woodProceduralTexture.ts ***!
+  \*************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/brick/brickProceduralTexture.ts ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/cloud/cloudProceduralTexture.ts ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/grass/grassProceduralTexture.ts ***!
+  \***************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/marble/marbleProceduralTexture.ts ***!
+  \*****************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/fire/fireProceduralTexture.fragment.ts ***!
+  \**********************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/road/roadProceduralTexture.fragment.ts ***!
+  \**********************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/wood/woodProceduralTexture.fragment.ts ***!
+  \**********************************************************************************/
+
+/*!***********************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/normalMap/normalMapProceduralTexture.ts ***!
+  \***********************************************************************************/
+
+/*!***********************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/starfield/starfieldProceduralTexture.ts ***!
+  \***********************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/brick/brickProceduralTexture.fragment.ts ***!
+  \************************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/cloud/cloudProceduralTexture.fragment.ts ***!
+  \************************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/grass/grassProceduralTexture.fragment.ts ***!
+  \************************************************************************************/
+
+/*!**************************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/marble/marbleProceduralTexture.fragment.ts ***!
+  \**************************************************************************************/
+
+/*!***************************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/perlinNoise/perlinNoiseProceduralTexture.ts ***!
+  \***************************************************************************************/
+
+/*!********************************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/normalMap/normalMapProceduralTexture.fragment.ts ***!
+  \********************************************************************************************/
+
+/*!********************************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/starfield/starfieldProceduralTexture.fragment.ts ***!
+  \********************************************************************************************/
+
+/*!************************************************************************************************!*\
+  !*** ../../../dev/proceduralTextures/src/perlinNoise/perlinNoiseProceduralTexture.fragment.ts ***!
+  \************************************************************************************************/
+
+/*!****************************************************************************************************!*\
+  !*** external {"root":"BABYLON","commonjs":"babylonjs","commonjs2":"babylonjs","amd":"babylonjs"} ***!
+  \****************************************************************************************************/
